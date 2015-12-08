@@ -30,3 +30,5 @@ L’utilisateur peut changer le fond de ses notes de six couleurs différentes (
 
 ### Griser les notes cochées
 Dans le cas d’une note se composant d’une “liste de cases à cocher”, l’utilisateur pourra, lors de l’ajout ou de la modification, griser le texte des cases qui sont cochées.
+
+###Test
