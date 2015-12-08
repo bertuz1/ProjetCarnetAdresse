@@ -1,1 +1,32 @@
+# ToDo List
+## Introduction
+Une ToDo List est un outil permettant de gérer les tâches d’une activité personnelle ou professionnelle sous forme de notes. 
+## Spécifications fonctionnelles
 
+### Créer des notes
+Nous souhaitons qu’un utilisateur puisse créer une note comprenant un titre, un thème (nouveau ou thème existant), un contenu (soit sous forme de texte, soit sous forme de liste de cases à cocher) et un degré d’importance (savoir si la note est importante ou non). Il aura le choix d’ajouter un thème ou non pour la note. Une fois la note créée, elle sera ajoutée à la liste des notes de l’utilisateur.
+
+### Enregistrer
+Lorsque l’utilisateur quitte l’application, ses notes sont sauvegardées. Ainsi, à la réouverture de celle-ci, il aura de nouveaux accès à ses notes.
+
+### Supprimer une note
+L’utilisateur pourra supprimer les notes de sa liste dès lors qu’il n’en aura plus aucune utilité.
+
+### Consulter et modifier une note 
+L’utilisateur doit pouvoir changer à tout moment le titre, le contenu, le degré d’importance et le thème d’une note ou simplement la regarder sans rien changer.
+
+### Créer un thème
+L’utilisateur peut ajouter de nouveaux thèmes via l’interface graphique sans passer par la création d’une note.
+
+### Trier les notes
+L’application offrira la possibilité de trier et d’afficher les notes par thème, par date de dernière modification et par degré d’importance. L’affichage “par défaut” sera le tri par date de dernière modification.
+Pour les tris par thème et par degré d’importance, les notes seront rangées dans l’ordre alphabétique.
+
+### Notifications
+Lors de l’ouverture de l’application, l’utilisateur est informé de ses notes qui sont éditées “importantes”.
+
+### Changer les couleurs de fond
+L’utilisateur peut changer le fond de ses notes de six couleurs différentes (bleu, violet, jaune, vert, orange et rouge).
+
+### Griser les notes cochées
+Dans le cas d’une note se composant d’une “liste de cases à cocher”, l’utilisateur pourra, lors de l’ajout ou de la modification, griser le texte des cases qui sont cochées.
