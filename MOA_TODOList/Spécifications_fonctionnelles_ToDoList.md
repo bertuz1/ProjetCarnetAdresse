@@ -3,6 +3,11 @@
 Une ToDo List est un outil permettant de gérer les tâches d’une activité personnelle ou professionnelle sous forme de notes. 
 ## Spécifications fonctionnelles
 
+
+### Ouverture de l’application
+La première fois que l’utilisateur lance l’application sur son ordinateur il lui sera demander obligatoirement un e-mail valide ( prendre en compte le format d’un e-mail). 
+
+
 ### Créer des notes
 Nous souhaitons qu’un utilisateur puisse créer une note comprenant un titre, un thème (nouveau ou thème existant), un contenu (soit sous forme de texte, soit sous forme de liste de cases à cocher) et un degré d’importance (savoir si la note est importante ou non). Il aura le choix d’ajouter un thème ou non pour la note. Une fois la note créée, elle sera ajoutée à la liste des notes de l’utilisateur.
 
@@ -19,8 +24,11 @@ L’utilisateur doit pouvoir changer à tout moment le titre, le contenu, le deg
 L’utilisateur peut ajouter de nouveaux thèmes via l’interface graphique sans passer par la création d’une note.
 
 ### Trier les notes
-L’application offrira la possibilité de trier et d’afficher les notes par thème, par date de dernière modification et par degré d’importance. L’affichage “par défaut” sera le tri par date de dernière modification.
+L’application offrira la possibilité de trier et d’afficher les notes par thème, par date de dernière modification et par degré d’importance. L’affichage “par défaut” sera le tri par date de dernière modification. Le temps (heure/minutes/secondes) doit être compris dans la date de dernière modification.
 Pour les tris par thème et par degré d’importance, les notes seront rangées dans l’ordre alphabétique.
+
+### Notifications
+Tous les jours à 0h00, l’utilisateur reçoit un mail lui informant les tâches importantes inscrites dans sa ToDo List
 
 ### Notifications
 Lors de l’ouverture de l’application, l’utilisateur est informé de ses notes qui sont éditées “importantes”.
