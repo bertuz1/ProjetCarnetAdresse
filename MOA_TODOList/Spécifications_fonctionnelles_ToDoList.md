@@ -5,13 +5,13 @@ Une ToDo List est un outil permettant de gérer les tâches d’une activité pe
 
 
 ### Ouverture de l’application
-La première fois que l’utilisateur lance l’application sur son ordinateur il lui sera demandé obligatoirement un e-mail valide ( prendre en compte le format d’un e-mail). 
+La première fois que l’utilisateur lance l’application sur son ordinateur, il lui sera demandé obligatoirement un e-mail valide (prendre en compte le format d’un e-mail). 
 
 ### Créer des notes
 Nous souhaitons qu’un utilisateur puisse créer une note comprenant un titre, un thème (nouveau ou thème existant), un contenu (soit sous forme de texte, soit sous forme de liste de cases à cocher) et un degré d’importance (savoir si la note est importante ou non). Il aura le choix d’ajouter un thème ou non pour la note. Une fois la note créée, elle sera ajoutée à la liste des notes de l’utilisateur.
 
 ### Enregistrer
-Lorsque l’utilisateur quitte l’application, ses notes sont sauvegardées. Ainsi, à la réouverture de celle-ci, il aura de nouveaux accès à ses notes.
+Lorsque l’utilisateur quitte l’application, ses notes sont sauvegardées. Ainsi, à la réouverture de celle-ci, il aura de nouveau accès à ses notes.
 
 ### Supprimer une note
 L’utilisateur pourra supprimer les notes de sa liste dès lors qu’il n’en aura plus aucune utilité.
