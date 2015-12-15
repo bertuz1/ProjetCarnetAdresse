@@ -8,7 +8,7 @@ Une ToDo List est un outil permettant de gérer les tâches d’une activité pe
 La première fois que l’utilisateur lance l’application sur son ordinateur, il lui sera demandé obligatoirement un e-mail valide (prendre en compte le format d’un e-mail). 
 
 ### Créer des notes
-Nous souhaitons qu’un utilisateur puisse créer une note comprenant obligatoirement un titre, un contenu (soit sous forme de texte, soit sous forme de liste de cases à cocher) et une importance (système d'étoile). Il aura, également, le choix d’ajouter un thème correspondant à une catégorie. 
+Nous souhaitons qu’un utilisateur puisse créer une note comprenant obligatoirement un titre, un contenu (soit sous forme de texte, soit sous forme de liste de cases à cocher) et une importance (système d'étoile). Il aura, également, le choix d’ajouter un thème correspondant à une catégorie. À ce thème, il pourra associer une couleur.
 Une fois la note créée, elle sera ajoutée à la liste des notes de l’utilisateur.
 
 ### Enregistrer
