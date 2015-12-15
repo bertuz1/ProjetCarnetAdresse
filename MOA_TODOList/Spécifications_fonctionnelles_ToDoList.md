@@ -38,8 +38,9 @@ Pour les tris par thème et importance, les notes seront rangées dans l’ordre
 Tous les jours à 0h00, l’utilisateur reçoit un mail lui informant les tâches importantes inscrites dans sa ToDo List.
 De plus, lors de l’ouverture de l’application, l’utilisateur est informé de ses notes qui sont éditées “importantes”.
 
-### Changer les couleurs de fond
-L’utilisateur peut changer le fond de ses notes de six couleurs différentes (bleu, violet, jaune, vert, orange et rouge).
+### Changer les couleurs de fond des thèmes
+L’utilisateur peut changer le fond de ses thèmes avec six couleurs différentes (bleu, violet, jaune, vert, orange et rouge).
+Les notes appartenant à ce thème sont de la même couleur que celui-ci.
 
 ### Griser les notes cochées
 Dans le cas d’une note se composant d’une “liste de cases à cocher”, l’utilisateur pourra, lors de l’ajout ou de la modification, griser le texte des cases qui sont cochées.
