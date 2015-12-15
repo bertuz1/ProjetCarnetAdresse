@@ -38,6 +38,7 @@ Tous les jours à 0h00, l’utilisateur reçoit un mail lui informant les tâche
 ### Notifications
 Lors de l’ouverture de l’application, l’utilisateur est informé de ses notes qui sont éditées “importantes”.
 
+
 ### Changer les couleurs de fond
 L’utilisateur peut changer le fond de ses notes de six couleurs différentes (bleu, violet, jaune, vert, orange et rouge).
 
